@@ -93,7 +93,7 @@
   <a href="https://www.linkedin.com/in/anubhav-kukreti-8767a5400?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+  <a href="https://www.instagram.com/anubhav_kukreti_?stkn=MWRwcTc3cnl1M2QxbA%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:your.email@example.com">
