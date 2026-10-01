@@ -1,4 +1,4 @@
-<!-- 🔥 BANNER -->
+ <!-- 🔥 BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5370,50:FF8659,100:FFE600&height=180&section=header&text=Anubhav%20Kukreti&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20|%20Data%20Scientist%20|%20GenAI%20Builder&descSize=18&descAlignY=62&animation=fadeIn" width="100%" />
 </p>
@@ -59,12 +59,9 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnubhavKukreti&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&ring_color=ff5370&icon_color=ff5370" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavKukreti&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+ <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavKukreti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=readme" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnubhavKukreti&theme=tokyonight&no-bg=true&margin-w=4&margin-h=4&column=4" alt="Trophies" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnubhavKukreti&bg_color=0d1117&color=FF5370&line=FF8659&point=FFE600&area=true&area_color=FF5370&hide_border=true" alt="Activity Graph" width="100%" />
