@@ -58,7 +58,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnubhavKukreti&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&ring_color=ff5370&icon_color=ff5370" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnubhavKukreti&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&ring_color=ff5370&icon_color=ff5370" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavKukreti&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
