@@ -55,19 +55,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnubhavKukreti&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&ring_color=ff5370&icon_color=ff5370" alt="GitHub Stats" />
- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavKukreti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=readme" alt="Top Languages" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnubhavKukreti&bg_color=0d1117&color=FF5370&line=FF8659&point=FFE600&area=true&area_color=FF5370&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
-
----
 
 ### 🐍 Contribution Snake
 
