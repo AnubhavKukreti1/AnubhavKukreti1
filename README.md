@@ -20,16 +20,16 @@
 
 ---
 
-## 🚀 At a Glance
+##  At a Glance
 
 <div align="center">
 
 | | |
 | :--- | :--- |
-| 🎯 **Core Focus** | Full-Stack (MERN) · Data Science · Generative AI |
-| 🎓 **Education** | BCA in AI & Data Science — Graphic Era University |
-| 📍 **Location** | Dehradun, India |
-| 🌱 **Currently Learning** | LLM applications, LangChain, Hugging Face, scalable system design |
+|  **Core Focus** | Full-Stack (MERN) · Data Science · Generative AI |
+|  **Education** | BCA in AI & Data Science — Graphic Era University |
+|  **Location** | Dehradun, India |
+|  **Currently Learning** | LLM applications, LangChain, Hugging Face, scalable system design |
 
 </div>
 
@@ -37,11 +37,11 @@
 
 ## ✨ About Me
 
-- 🏗️ **Architectural mindset** — I design applications as clean, maintainable systems, not just working features.
-- 🧩 **Problem-first approach** — I start from the real problem, then choose the stack, not the other way around.
-- 📊 **Data-driven decisions** — I use Python, statistics, and ML to turn raw data into reliable insight.
-- 🤖 **GenAI in practice** — I build with LLMs, LangChain, and Hugging Face to make applications smarter.
-- 🎨 **Engineering meets experience** — Strong logic behind the scenes, polished interfaces in front.
+-  **Architectural mindset** — I design applications as clean, maintainable systems, not just working features.
+-  **Problem-first approach** — I start from the real problem, then choose the stack, not the other way around.
+-  **Data-driven decisions** — I use Python, statistics, and ML to turn raw data into reliable insight.
+-  **GenAI in practice** — I build with LLMs, LangChain, and Hugging Face to make applications smarter.
+-  **Engineering meets experience** — Strong logic behind the scenes, polished interfaces in front.
 
 ---
 
@@ -63,7 +63,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+##  GitHub Stats & Activity
 
 <div align="center">
 
