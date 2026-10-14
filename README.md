@@ -105,6 +105,26 @@
   <i>Open to collaborations, internships, and interesting problems. Let's build something great.</i>
 </p>
 
+
+<!-- ===================== ANIMATED CONTRIBUTION SNAKE ===================== -->
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/AnubhavKukreti/AnubhavKukreti/output/github-snake-dark.svg"
+    alt="Anubhav Kukreti's GitHub contribution snake animation"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <i>Every contribution counts. Keep building, keep growing. 🚀</i>
+</p>
+
+---
+
+
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C2D12,100:FF8659&height=100&section=footer" width="100%" alt="Footer banner" />
