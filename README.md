@@ -112,8 +112,8 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/AnubhavKukreti/AnubhavKukreti/output/github-snake-dark.svg"
-    alt="Anubhav Kukreti's GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/AnubhavKukreti1/AnubhavKukreti1/output/github-snake-dark.svg"
+    alt="Anubhav's GitHub contribution snake"
     width="100%"
   />
 </p>
