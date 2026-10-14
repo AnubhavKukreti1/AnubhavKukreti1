@@ -110,17 +110,25 @@
 
 ## 🐍 Contribution Graph
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/AnubhavKukreti1/AnubhavKukreti1/output/github-snake-dark.svg"
-    alt="Anubhav's GitHub contribution snake"
-    width="100%"
-  />
-</p>
 
 <p align="center">
-  <i>Every contribution counts. Keep building, keep growing. 🚀</i>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AnubhavKukreti1/AnubhavKukreti1/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AnubhavKukreti1/AnubhavKukreti1/output/github-snake.svg"
+    />
+    <img
+      alt="Anubhav's GitHub contribution snake"
+      src="https://raw.githubusercontent.com/AnubhavKukreti1/AnubhavKukreti1/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
 </p>
+
 
 ---
 
