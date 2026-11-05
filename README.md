@@ -26,7 +26,7 @@
 
 | | |
 | :--- | :--- |
-|  **Core Focus** | Full-Stack (MERN) · Data Science · Generative AI |
+|  **Core Focus** | Full-Stack (MERN) · Data Science · Generative AI Operating Systems |
 |  **Education** | BCA in AI & Data Science — Graphic Era University |
 |  **Location** | Dehradun, India |
 |  **Currently Learning** | LLM applications, LangChain, Hugging Face, scalable system design |
