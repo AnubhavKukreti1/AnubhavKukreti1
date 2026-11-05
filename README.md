@@ -51,13 +51,13 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,js,cpp&theme=dark" alt="Languages" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c&theme=dark" alt="Languages" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="Frontend" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="Databases" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Databases" /> |
 | **Data Science & ML** | <img src="https://skillicons.dev/icons?i=pytorch,pandas,numpy&theme=dark" alt="Data Science and ML" /> <br/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn" /> |
-| **GenAI Tools** | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,vscode&theme=dark" alt="DevOps and tools" /> |
+| **GenAI Tools** | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=langchain&logoColor=black" alt="Hugging Face" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,render,vscode&theme=dark" alt="DevOps and tools" /> |
 
 </div>
 
