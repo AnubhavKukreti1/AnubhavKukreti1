@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C2D12,100:FF8659&height=200&section=header&text=Anubhav%20Kukreti&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20SAnalytics%20%7C%20GenAI%20Builder&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Anubhav Kukreti banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C2D12,100:FF8659&height=200&section=header&text=Anubhav%20Kukreti&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Analytics%20%7C%20GenAI%20Builder&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Anubhav Kukreti banner" />
 </p>
 
 <!-- ===================== TYPING SVG ===================== -->
